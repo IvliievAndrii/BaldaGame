@@ -6,7 +6,7 @@
 
 ## Currently in development
  
-WinForms, Graph theory and Depth-first search algorithm were used while developing application.
+WinForms, Graph theory and Depth-first search algorithm were used while developing this application.
 
 Project is under beta-testing now. The next goal is to allow user add letter and pick word with one mouse-click. 
 
