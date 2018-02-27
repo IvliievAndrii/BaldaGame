@@ -1,0 +1,57 @@
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.exe.config
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.exe
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.pdb
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.csprojResolveAssemblyReference.cache
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.Form1.resources
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.Properties.Resources.resources
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.csproj.GenerateResource.Cache
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.csproj.CoreCompileInputs.cache
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.exe
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.pdb
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.exe.config
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.exe
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.pdb
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.exe
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.pdb
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\bin\Debug\mscorlib.dll
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\bin\Debug\ru\mscorlib.resources.dll
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\bin\Debug\normidna.nlp
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\bin\Debug\normnfc.nlp
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\bin\Debug\normnfd.nlp
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\bin\Debug\normnfkc.nlp
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\bin\Debug\normnfkd.nlp
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.csprojResolveAssemblyReference.cache
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.Form1.resources
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.Properties.Resources.resources
+F:\Users\User\Documents\Visual Studio 2012\Projects\GalinaAN\Andrij\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.csproj.GenerateResource.Cache
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.exe.config
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.exe
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.pdb
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.csprojResolveAssemblyReference.cache
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.Form1.resources
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.Properties.Resources.resources
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.csproj.GenerateResource.Cache
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.csproj.CoreCompileInputs.cache
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.exe
+D:\c#\дз\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.pdb
+D:\c#\projects\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.exe.config
+D:\c#\projects\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.exe
+D:\c#\projects\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.pdb
+D:\c#\projects\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.csprojResolveAssemblyReference.cache
+D:\c#\projects\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.Form1.resources
+D:\c#\projects\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.Properties.Resources.resources
+D:\c#\projects\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.csproj.GenerateResource.Cache
+D:\c#\projects\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.csproj.CoreCompileInputs.cache
+D:\c#\projects\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.exe
+D:\c#\projects\BaldaGameWFA\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.pdb
+D:\c#\projects\BaldaGameWFA_new_not_working_version\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.exe.config
+D:\c#\projects\BaldaGameWFA_new_not_working_version\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.exe
+D:\c#\projects\BaldaGameWFA_new_not_working_version\BaldaGameWFA\BaldaGameWFA\bin\Debug\BaldaGameWFA.pdb
+D:\c#\projects\BaldaGameWFA_new_not_working_version\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.csprojResolveAssemblyReference.cache
+D:\c#\projects\BaldaGameWFA_new_not_working_version\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.Properties.Resources.resources
+D:\c#\projects\BaldaGameWFA_new_not_working_version\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.csproj.GenerateResource.Cache
+D:\c#\projects\BaldaGameWFA_new_not_working_version\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.csproj.CoreCompileInputs.cache
+D:\c#\projects\BaldaGameWFA_new_not_working_version\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.exe
+D:\c#\projects\BaldaGameWFA_new_not_working_version\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.pdb
+D:\c#\projects\BaldaGameWFA_new_not_working_version\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.MainForm.resources
+D:\c#\projects\BaldaGameWFA_new_not_working_version\BaldaGameWFA\BaldaGameWFA\obj\Debug\BaldaGameWFA.LevelForm.resources
