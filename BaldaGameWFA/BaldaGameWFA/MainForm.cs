@@ -182,9 +182,9 @@ namespace BaldaGameWFA
                     personMadeTurn = true;
                     personAddedLetters = false;
                     numLettersAddedToGrid = 0;
-                    SetNeighborPlusOnDataGrid();
-                    SetPlusForVertexMass();
+                    SetNeighborPlusOnDataGrid();                    
                     SetLetterForVertexMass();
+                    SetPlusForVertexMass();
                     dataGridViewPerson.Rows.Add();
                     dataGridViewPerson.Rows[personCompleteWords].Cells[wordColumnNumber].Value = wordToCheck.ToLower();
                     dataGridViewPerson.Rows[personCompleteWords].Cells[pointColumnNumber].Value = wordToCheck.Length;
@@ -466,7 +466,7 @@ namespace BaldaGameWFA
             {
                 for (int j = 0; j < dataGridViewMain.RowCount; j++)
                 {
-                    if (dataGridViewMain[j, i].Value.ToString() == "+" && vert.GetVertexLetter(j * rowsNumber + i) == '-')
+                    if (dataGridViewMain[i, j].Value.ToString() == "+" && vert.GetVertexLetter(j * rowsNumber + i) == '-')
                     {
                         vert.SetVertexLetter((j * rowsNumber + i), '+');
                     }
@@ -476,7 +476,6 @@ namespace BaldaGameWFA
 
         private void SetLetterForVertexMass()
         {
-            vert.GetVertexLetter(j * rowsNumber + i);
             if (!Char.IsLetter(vert.GetVertexLetter(j * rowsNumber + i)))
             {
                 vert.SetVertexLetter(j * rowsNumber + i, Char.Parse(dataGridViewMain[i, j].Value.ToString()));
@@ -487,10 +486,6 @@ namespace BaldaGameWFA
         {
             if (personMadeTurn)
             {
-                //int numOfCoordinates = 2;
-                //int row = 0;
-                //int col = 1;
-
                 if (allCoordinates.Count != 0)
                 {
                     ChangeCellColorToDefault();
@@ -507,7 +502,6 @@ namespace BaldaGameWFA
                         DictionaryKey dkey = (DictionaryKey)dkeyTemp;
                         pcWord = dkey.GetWord().ToUpper();
                         List<int> path = dkey.GetListKey();
-                        //allCoordinates = new int[path.Count][];
                         for (int k = 0; k < path.Count; k++)
                         {
                             if (Char.Parse(dataGridViewMain.Rows[path[k] / 5].Cells[path[k] % 5].Value.ToString()) == '+')
@@ -517,21 +511,16 @@ namespace BaldaGameWFA
                             }
                             dataGridViewMain.Rows[path[k] / 5].Cells[path[k] % 5].Value = pcWord[k];
                             dataGridViewMain.Rows[path[k] / 5].Cells[path[k] % 5].Style.BackColor = Color.Red;
-
-                            //int[] coordinates = new int[numOfCoordinates];
-                            Coordinates localCoordinates = new Coordinates(path[k] / 5, path[k] % 5);
-                            //coordinates[row] = path[k] / 5;
-                            //coordinates[col] = path[k] % 5;
-                            //allCoordinates[k] = coordinates;                            
+                            Coordinates localCoordinates = new Coordinates(path[k] / 5, path[k] % 5);                         
                             allCoordinates.Add(localCoordinates);
                         }
                         dataGridViewMain.Refresh();
                         buttonPCTurn.ForeColor = Color.Black;
                         buttonPCTurn.Text = "ХОД КОМПЬЮТЕРА";                        
                         SetNeighborPlusOnDataGrid();
-                        sortDictionary.Remove(pcWord.ToLower());
-                        SetPlusForVertexMass();
+                        sortDictionary.Remove(pcWord.ToLower());                        
                         SetLetterForVertexMass();
+                        SetPlusForVertexMass();
                         PCGetPoints();
                         CheckGridForLastTurn();
                     }
@@ -592,9 +581,6 @@ namespace BaldaGameWFA
 
         private void ChangeCellColorToDefault()
         {
-            //int row = 0;
-            //int col = 1;
-
             for (int i = 0; i < allCoordinates.Count; i++)
             {
                 dataGridViewMain.Rows[allCoordinates[i].Row].Cells[allCoordinates[i].Col].Style.BackColor = System.Drawing.SystemColors.Window;
@@ -746,8 +732,10 @@ namespace BaldaGameWFA
             }
             if (countOfLetters == 25)
             {
-                int personResult = Int32.Parse(labelFinalPointsPerson.Text.ToString());
-                int pcResult = Int32.Parse(labelFinalPointsPC.Text.ToString());
+                int personResult = 0;
+                int pcResult = 0;
+                Int32.TryParse(labelFinalPointsPerson.Text.ToString(), out personResult);
+                Int32.TryParse(labelFinalPointsPC.Text.ToString(), out pcResult);
                 string finalMessage;
                 DialogResult result;
 
